@@ -1,0 +1,2 @@
+# SpamDetector
+detect a spam 
